@@ -61,6 +61,20 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Brooklyn Nine Nine** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | Henüz Yok |
 | **Easy Peasy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | Henüz Yok |
 | **Intro to IoT Pentesting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iotintro) | Henüz Yok |
+| **Bolt** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bolt) | Henüz Yok |
+| **Overpass 2 - Hacked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass2hacked) | Henüz Yok |
+| **OWASP Juice Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owaspjuiceshop) | Henüz Yok |
+| **kiba** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kiba) | Henüz Yok |
+| **GamingServer** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gamingserver) | Henüz Yok |
+| **WWBuddy** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wwbuddy) | Henüz Yok |
+| **Ghizer** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ghizerctf) | Henüz Yok |
+| **RootMe** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rrootme) | Henüz Yok |
+| **Poster** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/poster) | Henüz Yok |
+| **For Business Reasons** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/forbusinessreasons) | Henüz Yok |
+| **Aster** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/aster) | Henüz Yok |
+| **Printer Hacking 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/printerhacking101) | Henüz Yok |
+| **Psycho Break** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/psychobreak) | Henüz Yok |
+| **The Marketplace** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/marketplace) | Henüz Yok |
 
 ---
 
