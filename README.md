@@ -42,7 +42,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **CherryBlossom** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cherryblossom) | Henüz Yok |
 | **The Cod Caper** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thecodcaper) | Henüz Yok |
 | **Vulnversity** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnversity) | Henüz Yok |
-| **Dumping Router Firmware** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rfirmware) | Henüz Yok |
 | **Introductory Networking** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtonetworking) | Henüz Yok |
 | **tomghost** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tomghost) | Henüz Yok |
 | **Fowsniff CTF** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctf) | Henüz Yok |
@@ -51,6 +50,17 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Blaster** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blaster) | Henüz Yok |
 | **Nax** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nax) | Henüz Yok |
 | **Kenobi** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kenobi) | Henüz Yok |
+| **Introduction to OWASP ZAP** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learnowaspzap) | Henüz Yok |
+| **Tony the Tiger** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tonythetiger) | Henüz Yok |
+| **Network Services** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkservices) | Henüz Yok |
+| **Lian_Yu** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lianyu) | Henüz Yok |
+| **Introduction to Django** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/django) | Henüz Yok |
+| **Nessus** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rpnessusredux) | Henüz Yok |
+| **OWASP Top 10** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owasptop10) | Henüz Yok |
+| **Overpass** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass) | Henüz Yok |
+| **Brooklyn Nine Nine** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | Henüz Yok |
+| **Easy Peasy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | Henüz Yok |
+| **Intro to IoT Pentesting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iotintro) | Henüz Yok |
 
 ---
 
