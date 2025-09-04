@@ -62,7 +62,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Easy Peasy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | Henüz Yok |
 | **Intro to IoT Pentesting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iotintro) | Henüz Yok |
 | **Bolt** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bolt) | Henüz Yok |
-| **Overpass 2 - Hacked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass2hacked) | Henüz Yok |
 | **OWASP Juice Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owaspjuiceshop) | Henüz Yok |
 | **kiba** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kiba) | Henüz Yok |
 | **GamingServer** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gamingserver) | Henüz Yok |
