@@ -29,7 +29,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **CTF collection Vol.2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | Henüz Yok |
 | **Blue** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blue) | Henüz Yok |
 | **Ice** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ice) | Henüz Yok |
-| **Avengers Blog** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/avengers) | Henüz Yok |
 | **DVWA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dvwa) | Henüz Yok |
 | **WebGOAT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webgoat) | Henüz Yok |
 | **Wifi Hacking 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wifihacking101) | Henüz Yok |
