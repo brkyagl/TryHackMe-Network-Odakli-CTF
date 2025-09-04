@@ -30,3 +30,10 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 * ⬜ **Başlanacak:** Henüz başlamadım.
 
 ---
+
+### 🔗 İletişim & Profil
+
+* ✍️ **Medium Blog:** [Tüm Çözüm Yazılarıma Ulaşın](https://medium.com/@brkyagl)
+* 👨‍💻 **TryHackMe Profilim:** [İlerleme Durumumu Takip Et](https://tryhackme.com/p/brkyagl)
+
+---
