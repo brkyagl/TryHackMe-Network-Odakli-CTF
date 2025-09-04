@@ -24,7 +24,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **HA Joker CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/jokerctf) | Henüz Yok |
 | **Borderlands** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/borderlands) | Henüz Yok |
 | **Agent Sudo** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/agentsudoctf) | Henüz Yok |
-| **Alfred** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/alfred) | Henüz Yok |
 | **Blueprint** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blueprint) | Henüz Yok |
 | **LazyAdmin** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lazyadmin) | Henüz Yok |
 | **CTF collection Vol.2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | Henüz Yok |
