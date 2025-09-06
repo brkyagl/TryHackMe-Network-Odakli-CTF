@@ -12,7 +12,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 
 | Oda Adı | Zorluk | Durum | Oda Linki | Çözüm Linki (Medium) |
 | :--- | :---: | :---: | :--- | :--- |
-| **Basic Pentesting** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/basicpentestingjt) | [Medium Blog] (https://medium.com/@brkyagl/tryhackme-writeup-basic-pentesting-bdda8c11942a) |
+| **Basic Pentesting** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/basicpentestingjt) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-basic-pentesting-bdda8c11942a) |
 | **Anonforce** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bsidesgtanonforce) | Henüz Yok |
 | **Thompson** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bsidesgtthompson) | Henüz Yok |
 | **Simple CTF** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easyctf) | Henüz Yok |
