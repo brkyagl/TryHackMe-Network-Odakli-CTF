@@ -17,7 +17,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Thompson** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/bsidesgtthompson) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-thompson-f5d14df8c117) |
 | **Simple CTF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/easyctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-simple-ctf-f03e66c4a108) |
 | **GoldenEye** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/goldeneye) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-goldeneye-68bc8fef8c07) |
-| **Ignite** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ignite) | Henüz Yok |
+| **Ignite** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ignite) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ignite-3bab0dcd0bba) |
 | **Mr Robot CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mrrobot) | Henüz Yok |
 | **UltraTech** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ultratech1) | Henüz Yok |
 | **Dav** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bsidesgtdav) | Henüz Yok |
