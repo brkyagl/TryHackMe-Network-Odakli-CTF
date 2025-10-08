@@ -24,7 +24,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **HA Joker CTF** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jokerctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ha-joker-ctf-d9db37f94da5) |
 | **Borderlands** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/borderlands) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-borderlands-419bc61c2751) |
 | **Agent Sudo** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/agentsudoctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-agent-sudo-f982ce60557f) |
-| **Blueprint** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blueprint) | Henüz Yok |
+| **Blueprint** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/blueprint) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-blueprint-78953034898c) |
 | **LazyAdmin** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lazyadmin) | Henüz Yok |
 | **CTF collection Vol.2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | Henüz Yok |
 | **Blue** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blue) | Henüz Yok |
