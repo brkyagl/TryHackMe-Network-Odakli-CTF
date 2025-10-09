@@ -25,7 +25,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Borderlands** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/borderlands) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-borderlands-419bc61c2751) |
 | **Agent Sudo** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/agentsudoctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-agent-sudo-f982ce60557f) |
 | **Blueprint** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/blueprint) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-blueprint-78953034898c) |
-| **LazyAdmin** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lazyadmin) | Henüz Yok |
+| **LazyAdmin** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lazyadmin) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lazyadmin-69afad775c25) |
 | **CTF collection Vol.2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | Henüz Yok |
 | **Blue** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blue) | Henüz Yok |
 | **Ice** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ice) | Henüz Yok |
