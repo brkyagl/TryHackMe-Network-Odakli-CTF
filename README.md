@@ -26,7 +26,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Agent Sudo** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/agentsudoctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-agent-sudo-f982ce60557f) |
 | **Blueprint** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/blueprint) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-blueprint-78953034898c) |
 | **LazyAdmin** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lazyadmin) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lazyadmin-69afad775c25) |
-| **CTF collection Vol.2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | Henüz Yok |
+| **CTF collection Vol.2** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ctf-collection-vol-2-f0aceae969cc) |
 | **Blue** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blue) | Henüz Yok |
 | **Ice** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ice) | Henüz Yok |
 | **DVWA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dvwa) | Henüz Yok |
