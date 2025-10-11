@@ -89,7 +89,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 
 * ✍️ **Medium Blog:** [Tüm Çözüm Yazılarıma Ulaşın](https://medium.com/@brkyagl)
 * 👨‍💻 **TryHackMe Profilim:** [İlerleme Durumumu Takip Et](https://tryhackme.com/p/brkyagl)
-* TryHackMe Premium İçin Destek ♥️[Buy Me A Coffe](https://buymeacoffee.com/brkyagl)
+* ☕ **TryHackMe Premium İçin Destek ♥️:** [Buy Me A Coffe](https://buymeacoffee.com/brkyagl)
 
 ---
 
