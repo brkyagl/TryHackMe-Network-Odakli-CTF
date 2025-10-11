@@ -28,9 +28,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **LazyAdmin** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lazyadmin) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lazyadmin-69afad775c25) |
 | **CTF collection Vol.2** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ctf-collection-vol-2-f0aceae969cc) |
 | **CMesS** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cmess) | Henüz Yok |
-| **Phishing: HiddenEye** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/phishinghiddeneye) | Henüz Yok |
-| **hackerNote** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackernote) | Henüz Yok |
-| **Hydra** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hydra) | Henüz Yok |
 | **CherryBlossom** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cherryblossom) | Henüz Yok |
 | **The Cod Caper** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thecodcaper) | Henüz Yok |
 | **Vulnversity** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnversity) | Henüz Yok |
