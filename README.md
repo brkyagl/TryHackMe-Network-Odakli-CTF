@@ -29,14 +29,9 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **CTF collection Vol.2** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ctf-collection-vol-2-f0aceae969cc) |
 | **CMesS** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cmess) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cmess-f4a9c354c991) |
 | **CherryBlossom** | Zor | ✍️ Devam Ediyor | [Odaya Git](https://tryhackme.com/room/cherryblossom) | Henüz Yok |
-| **The Cod Caper** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thecodcaper) | Henüz Yok |
-| **Vulnversity** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnversity) | Henüz Yok |
-| **Introductory Networking** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtonetworking) | Henüz Yok |
 | **tomghost** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tomghost) | Henüz Yok |
-| **Fowsniff CTF** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ctf) | Henüz Yok |
 | **dogcat** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dogcat) | Henüz Yok |
 | **Pickle Rick** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/picklerick) | Henüz Yok |
-| **Blaster** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/blaster) | Henüz Yok |
 | **Nax** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nax) | Henüz Yok |
 | **Kenobi** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kenobi) | Henüz Yok |
 | **Introduction to OWASP ZAP** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learnowaspzap) | Henüz Yok |
