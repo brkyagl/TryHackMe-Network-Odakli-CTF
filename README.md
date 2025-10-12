@@ -34,7 +34,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Pickle Rick** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/picklerick) | Henüz Yok |
 | **Nax** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nax) | Henüz Yok |
 | **Tony the Tiger** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tonythetiger) | Henüz Yok |
-| **Network Services** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkservices) | Henüz Yok |
 | **Lian_Yu** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lianyu) | Henüz Yok |
 | **Introduction to Django** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/django) | Henüz Yok |
 | **Nessus** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rpnessusredux) | Henüz Yok |
