@@ -28,7 +28,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **LazyAdmin** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lazyadmin) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lazyadmin-69afad775c25) |
 | **CTF collection Vol.2** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ctf-collection-vol-2-f0aceae969cc) |
 | **CMesS** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cmess) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cmess-f4a9c354c991) |
-| **CherryBlossom** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cherryblossom) | Henüz Yok |
+| **CherryBlossom** | Zor | ✍️ Devam Ediyor | [Odaya Git](https://tryhackme.com/room/cherryblossom) | Henüz Yok |
 | **The Cod Caper** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thecodcaper) | Henüz Yok |
 | **Vulnversity** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnversity) | Henüz Yok |
 | **Introductory Networking** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtonetworking) | Henüz Yok |
