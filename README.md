@@ -33,8 +33,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **dogcat** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dogcat) | Henüz Yok |
 | **Pickle Rick** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/picklerick) | Henüz Yok |
 | **Nax** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nax) | Henüz Yok |
-| **Kenobi** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kenobi) | Henüz Yok |
-| **Introduction to OWASP ZAP** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learnowaspzap) | Henüz Yok |
 | **Tony the Tiger** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tonythetiger) | Henüz Yok |
 | **Network Services** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkservices) | Henüz Yok |
 | **Lian_Yu** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lianyu) | Henüz Yok |
