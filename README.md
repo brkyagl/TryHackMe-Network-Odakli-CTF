@@ -29,7 +29,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **CTF collection Vol.2** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/ctfcollectionvol2) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-ctf-collection-vol-2-f0aceae969cc) |
 | **CMesS** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cmess) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cmess-f4a9c354c991) |
 | **tomghost** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/tomghost) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-tomghost-d518fb2d7945) |
-| **dogcat** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dogcat) | Henüz Yok |
+| **dogcat** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/dogcat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dogcat-3476777dd860) |
 | **Pickle Rick** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/picklerick) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pickle-rick-5a0023b499d8) |
 | **Nax** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nax) | Henüz Yok |
 | **Tony the Tiger** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tonythetiger) | Henüz Yok |
