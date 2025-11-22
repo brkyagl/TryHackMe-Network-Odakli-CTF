@@ -33,9 +33,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Pickle Rick** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/picklerick) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pickle-rick-5a0023b499d8) |
 | **Nax** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/nax) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-nax-18708881cb79) |
 | **Lian_Yu** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lianyu) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lian-yu-4777e34a06b3) |
-| **Introduction to Django** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/django) | Henüz Yok |
-| **Nessus** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rpnessusredux) | Henüz Yok |
-| **OWASP Top 10** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owasptop10) | Henüz Yok |
 | **Overpass** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass) | Henüz Yok |
 | **Brooklyn Nine Nine** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | Henüz Yok |
 | **Easy Peasy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | Henüz Yok |
