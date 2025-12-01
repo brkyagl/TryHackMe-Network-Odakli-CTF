@@ -34,7 +34,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Nax** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/nax) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-nax-18708881cb79) |
 | **Lian_Yu** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/lianyu) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lian-yu-4777e34a06b3) |
 | **Overpass** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/overpass) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-overpass-338ba1b0cc77) |
-| **Brooklyn Nine Nine** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | Henüz Yok |
+| **Brooklyn Nine Nine** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-brooklyn-nine-nine-1892c1746e4d) |
 | **Easy Peasy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | Henüz Yok |
 | **Intro to IoT Pentesting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iotintro) | Henüz Yok |
 | **Bolt** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bolt) | Henüz Yok |
