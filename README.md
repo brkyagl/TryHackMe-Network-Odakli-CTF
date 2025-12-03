@@ -36,7 +36,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Overpass** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/overpass) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-overpass-338ba1b0cc77) |
 | **Brooklyn Nine Nine** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/brooklynninenine) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-brooklyn-nine-nine-1892c1746e4d) |
 | **Easy Peasy** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-easy-peasy-0c8e38f65ecd) |
-| **kiba** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kiba) | Henüz Yok |
+| **kiba** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kiba) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kiba-6072bdba870a) |
 | **GamingServer** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gamingserver) | Henüz Yok |
 | **WWBuddy** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wwbuddy) | Henüz Yok |
 | **Ghizer** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ghizerctf) | Henüz Yok |
