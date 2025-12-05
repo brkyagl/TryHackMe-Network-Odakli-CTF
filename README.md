@@ -38,7 +38,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Easy Peasy** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/easypeasyctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-easy-peasy-0c8e38f65ecd) |
 | **kiba** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kiba) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kiba-6072bdba870a) |
 | **GamingServer** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/gamingserver) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-gamingserver-00402b47e47c) |
-| **WWBuddy** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wwbuddy) | Henüz Yok |
 | **Ghizer** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ghizerctf) | Henüz Yok |
 | **RootMe** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rrootme) | Henüz Yok |
 | **Poster** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/poster) | Henüz Yok |
