@@ -39,7 +39,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **kiba** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kiba) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kiba-6072bdba870a) |
 | **GamingServer** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/gamingserver) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-gamingserver-00402b47e47c) |
 | **RootMe** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/rrootme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-rootme-b3385b556a7d) |
-| **Poster** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/poster) | Henüz Yok |
+| **Poster** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/poster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-poster-73cae04fd576) |
 | **For Business Reasons** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/forbusinessreasons) | Henüz Yok |
 | **Aster** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/aster) | Henüz Yok |
 | **Printer Hacking 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/printerhacking101) | Henüz Yok |
