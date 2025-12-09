@@ -40,7 +40,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **GamingServer** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/gamingserver) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-gamingserver-00402b47e47c) |
 | **RootMe** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/rrootme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-rootme-b3385b556a7d) |
 | **Poster** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/poster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-poster-73cae04fd576) |
-| **Aster** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/aster) | Henüz Yok |
+| **Aster** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/aster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-aster-cf8a861f0940) |
 
 ---
 
