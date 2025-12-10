@@ -41,7 +41,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **RootMe** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/rrootme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-rootme-b3385b556a7d) |
 | **Poster** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/poster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-poster-73cae04fd576) |
 | **Aster** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/aster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-aster-cf8a861f0940) |
-| **Undiscovered** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/undiscoveredup) | |
+| **Undiscovered** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/undiscoveredup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-undiscovered-433d9a48e39c) |
 | **Intro PoC Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/intropocscripting) | |
 | **What the Shell?** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoshells) | |
 | **NerdHerd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nerdherd) | |
