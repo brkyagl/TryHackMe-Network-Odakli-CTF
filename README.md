@@ -41,7 +41,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **RootMe** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/rrootme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-rootme-b3385b556a7d) |
 | **Poster** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/poster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-poster-73cae04fd576) |
 | **Aster** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/aster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-aster-cf8a861f0940) |
-| **Undiscovered** | Orta | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/undiscoveredup) | |
+| **Undiscovered** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/undiscoveredup) | |
 | **Intro PoC Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/intropocscripting) | |
 | **What the Shell?** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoshells) | |
 | **NerdHerd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nerdherd) | |
@@ -53,7 +53,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **JavaScript Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/javascriptbasics) | |
 | **Brute It** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bruteit) | |
 | **Startup** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/startup) | |
-| **LLE (Local Enum.)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/lle) | |
+| **LLE (Local Enum.)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lle) | |
 | **MITRE** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mitre) | |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
 | **Attacking ICS Plant \#1** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/attackingics1) | |
