@@ -42,17 +42,15 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Poster** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/poster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-poster-73cae04fd576) |
 | **Aster** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/aster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-aster-cf8a861f0940) |
 | **Undiscovered** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/undiscoveredup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-undiscovered-433d9a48e39c) |
+| **Startup** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/startup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-startup-7fb4556d9e79) |
 | **Intro PoC Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/intropocscripting) | |
-| **What the Shell?** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoshells) | |
 | **NerdHerd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nerdherd) | |
-| **NIS - Linux Part I** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nislinuxone) | |
 | **Year of the Dog** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearofthedog) | |
 | **Wireshark 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wireshark) | |
 | **The Server From Hell** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/theserverfromhell) | |
 | **DLL HIJACKING** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dllhijacking) | |
 | **JavaScript Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/javascriptbasics) | |
 | **Brute It** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bruteit) | |
-| **Startup** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/startup) | |
 | **LLE (Local Enum.)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lle) | |
 | **MITRE** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mitre) | |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
