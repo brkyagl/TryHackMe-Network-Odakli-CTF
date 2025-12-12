@@ -43,8 +43,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Aster** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/aster) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-aster-cf8a861f0940) |
 | **Undiscovered** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/undiscoveredup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-undiscovered-433d9a48e39c) |
 | **Startup** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/startup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-startup-7fb4556d9e79) |
-| **Intro PoC Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/intropocscripting) | |
-| **NerdHerd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nerdherd) | |
+| **NerdHerd** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/nerdherd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-nerdherd-5d4f1c55bbc6) |
 | **Year of the Dog** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearofthedog) | |
 | **Wireshark 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wireshark) | |
 | **The Server From Hell** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/theserverfromhell) | |
