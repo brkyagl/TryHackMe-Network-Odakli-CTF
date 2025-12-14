@@ -45,7 +45,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Startup** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/startup) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-startup-7fb4556d9e79) |
 | **NerdHerd** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/nerdherd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-nerdherd-5d4f1c55bbc6) |
 | **Year of the Dog** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearofthedog) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-a3b1be9ceb32) |
-| **Wireshark 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wireshark) | |
 | **The Server From Hell** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/theserverfromhell) | |
 | **DLL HIJACKING** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dllhijacking) | |
 | **JavaScript Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/javascriptbasics) | |
