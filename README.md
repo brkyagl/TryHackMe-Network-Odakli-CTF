@@ -46,7 +46,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **NerdHerd** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/nerdherd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-nerdherd-5d4f1c55bbc6) |
 | **Year of the Dog** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearofthedog) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-a3b1be9ceb32) |
 | **The Server From Hell** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/theserverfromhell) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-server-from-hell-9031589995ee) |
-| **Brute It** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bruteit) | |
+| **Brute It** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/bruteit) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-brute-it-9bd54746f920) |
 | **LLE (Local Enum.)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lle) | |
 | **MITRE** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mitre) | |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
