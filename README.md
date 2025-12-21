@@ -58,8 +58,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Searchlight - IMINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchlightosint) | |
 | **25 Days of Cyber Security** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learncyberin25days) | |
 | **Advent of Cyber 2 [2020]** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber2) | |
-| **Windows Event Logs** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowseventlogs) | |
-| **OWASP Mutillidae II** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owaspmutillidae) | |
 | **How to use TryHackMe** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howtousetryhackme) | |
 | **Introduction to Flask** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/flask) | |
 | **EnterPrize** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enterprize) | |
