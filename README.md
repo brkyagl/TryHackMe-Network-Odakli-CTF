@@ -49,6 +49,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Brute It** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/bruteit) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-brute-it-9bd54746f920) |
 | **Chill Hack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/chillhack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-chill-hack-9798895cc47e) |
 | **All in One** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/allinonemj) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-all-in-one-299ddc96b119) |
+| **ColddBox: Easy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/colddboxeasy) | |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
 | **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
 | **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
@@ -61,7 +62,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **OWASP Mutillidae II** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owaspmutillidae) | |
 | **How to use TryHackMe** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howtousetryhackme) | |
 | **Introduction to Flask** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/flask) | |
-| **ColddBox: Easy** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/colddboxeasy) | |
 | **EnterPrize** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enterprize) | |
 | **RustScan** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rustscan) | |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
