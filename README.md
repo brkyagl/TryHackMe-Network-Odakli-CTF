@@ -53,7 +53,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
 | **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
 | **Unbaked Pie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unbakedpie) | |
-| **All in One** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/allinonemj) | |
 | **Linux Strength Training** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxstrengthtraining) | |
 | **Searchlight - IMINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchlightosint) | |
 | **25 Days of Cyber Security** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learncyberin25days) | |
