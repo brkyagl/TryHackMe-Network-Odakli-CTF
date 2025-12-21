@@ -48,7 +48,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **The Server From Hell** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/theserverfromhell) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-server-from-hell-9031589995ee) |
 | **Brute It** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/bruteit) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-brute-it-9bd54746f920) |
 | **Chill Hack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/chillhack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-chill-hack-9798895cc47e) |
-| **All in One** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/allinonemj) | |
+| **All in One** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/allinonemj) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-all-in-one-299ddc96b119) |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
 | **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
 | **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
