@@ -51,6 +51,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **All in One** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/allinonemj) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-all-in-one-299ddc96b119) |
 | **ColddBox: Easy** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/colddboxeasy) | [Medium BLog](https://medium.com/@brkyagl/tryhackme-writeup-colddbox-easy-679309b4bac7) |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
+| **Chocolate Factory** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chocolatefactory) | |
 | **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
 | **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
 | **Unbaked Pie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unbakedpie) | |
@@ -66,11 +67,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **The Hacker Methodology** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackermethodology) | |
 | **Crack The Hash Level 2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crackthehashlevel2) | |
 | **battery** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/battery) | |
-| **Chocolate Factory** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chocolatefactory) | |
-| **Core Windows Processes** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/btwindowsinternals) | |
-| **John The Ripper** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/johntheripper0) | |
-| **John the Ripper: The Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/johntheripperbasics) | |
-| **Sysmon** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sysmon) | |
 | **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) | 
 
 ---
