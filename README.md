@@ -50,7 +50,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Chill Hack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/chillhack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-chill-hack-9798895cc47e) |
 | **All in One** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/allinonemj) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-all-in-one-299ddc96b119) |
 | **ColddBox: Easy** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/colddboxeasy) | [Medium BLog](https://medium.com/@brkyagl/tryhackme-writeup-colddbox-easy-679309b4bac7) |
-| **Chocolate Factory** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chocolatefactory) | |
+| **Chocolate Factory** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/chocolatefactory) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-chocolate-factory-55491c5c7f69) |
 | **Year of the Owl** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | |
 | **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
 | **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
