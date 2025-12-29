@@ -68,6 +68,72 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Crack The Hash Level 2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crackthehashlevel2) | |
 | **battery** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/battery) | |
 | **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) | 
+| **Sysinternals** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/btsysinternalssg) |
+| **Cyborg** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyborgt8) |
+| **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
+| **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
+| **NahamStore** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nahamstore) |
+| **Keldagrim** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/keldagrim) |
+| **Madeye's Castle** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/madeyescastle) |
+| **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
+| **Baron Samedit (Sudo)** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sudovulnssamedit) |
+| **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
+| **Archangel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/archangel) |
+| **Classic Passwd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/classicpasswd) |
+| **Linux Modules** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxmodules) |
+| **En-pass** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enpass) |
+| **Investigating Windows 3.x** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/investigatingwindows3) |
+| **Investigating Windows 2.0** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/investigatingwindows2) |
+| **Inferno** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inferno) |
+| **The Great Escape** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thegreatescape) |
+| **ISO27001** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iso27001) |
+| **Watcher** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/watcher) |
+| **WebOSINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webosint) |
+| **magician** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/magician) |
+| **Cryptography for Dummies** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographyfordummies) |
+| **Lunizz CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
+| **REloaded** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/reloaded) |
+| **JPGChat** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/jpgchat) |
+| **Linux Backdoors** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxbackdoors) |
+| **Team** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/teamcw) |
+| **Wekor** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wekorra) |
+| **DNS Manipulation** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dnsmanipulation) |
+| **broker** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/broker) |
+| **Badbyte** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/badbyte) |
+| **h4cked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/h4cked) |
+| **Tokyo Ghoul** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tokyoghoul666) |
+| **OpenVAS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/openvas) |
+| **VulnNet** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnet1) |
+| **Enterprise** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enterprise) |
+| **Attacking ICS Plant #2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/attackingics2) |
+| **KaffeeSec - SoMeSINT** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/somesint) |
+| **pyLon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pylonzfpyLon) |
+| **VulnNet: Node** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetnode) |
+| **SafeZone** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/safezone) |
+| **How Websites Work** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howwebsiteswork) |
+| **Debug** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/debug) |
+| **GLITCH** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/glitch) |
+| **Memory Forensics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/memoryforensics) |
+| **VulnNet: dotpy** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetdotpy) |
+| **AllSignsPoint2Pwnage** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/allsignspoint2pwnage) |
+| **Sakura** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sakura) |
+| **LearnSSTI** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learnssti) |
+| **Cooctus Stories** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cooctusadventures) |
+| **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) |
+| **Unbaked Pie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unbakedpie) |
+| **Linux Strength Training** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxstrengthtraining) |
+| **Searchlight - IMINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchlightosint) |
+| **25 Days of Cyber Security** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learncyberin25days) |
+| **Advent of Cyber 2 [2020]** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber2) |
+| **How to use TryHackMe** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howtousetryhackme) |
+| **Introduction to Flask** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/flask) |
+| **EnterPrize** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enterprize) |
+| **RustScan** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rustscan) |
+| **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) |
+| **The Hacker Methodology** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackermethodology) |
+| **Crack The Hash Level 2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crackthehashlevel2) |
+| **battery** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/battery) |
+| **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) |
 
 ---
 
