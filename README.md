@@ -53,8 +53,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Chocolate Factory** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/chocolatefactory) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-chocolate-factory-55491c5c7f69) |
 | **Cyborg** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyborgt8) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyborg-2d10b5b79296) |
 | **Year of the Owl** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-cf1cf5662f26) |
-| **You're in a cave** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inacave) | |
-| **envizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/envizon) | |
+| **envizon** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/envizon) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-envizon-76735ee541f2) |
 | **Unbaked Pie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unbakedpie) | |
 | **Linux Strength Training** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxstrengthtraining) | |
 | **Searchlight - IMINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchlightosint) | |
