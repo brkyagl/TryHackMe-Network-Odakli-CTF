@@ -54,10 +54,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Cyborg** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyborgt8) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyborg-2d10b5b79296) |
 | **Year of the Owl** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-cf1cf5662f26) |
 | **envizon** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/envizon) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-envizon-76735ee541f2) |
-| **RustScan** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rustscan) | |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
-| **The Hacker Methodology** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackermethodology) | |
-| **Crack The Hash Level 2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crackthehashlevel2) | |
 | **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) | 
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
