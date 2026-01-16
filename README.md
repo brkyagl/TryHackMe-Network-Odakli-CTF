@@ -54,6 +54,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Cyborg** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyborgt8) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyborg-2d10b5b79296) |
 | **Year of the Owl** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-cf1cf5662f26) |
 | **envizon** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/envizon) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-envizon-76735ee541f2) |
+| **Archangel** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/archangel) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-archangel-7299ebe4f12f) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) | 
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
@@ -64,7 +65,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
 | **Baron Samedit (Sudo)** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sudovulnssamedit) |
 | **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
-| **Archangel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/archangel) |
 | **Classic Passwd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/classicpasswd) |
 | **Linux Modules** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxmodules) |
 | **En-pass** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/enpass) |
