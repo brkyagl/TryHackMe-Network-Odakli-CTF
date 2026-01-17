@@ -55,6 +55,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Year of the Owl** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/yearoftheowl) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-year-of-the-dog-cf1cf5662f26) |
 | **envizon** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/envizon) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-envizon-76735ee541f2) |
 | **Archangel** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/archangel) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-archangel-7299ebe4f12f) |
+| **JPGChat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jpgchat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jpgchat-3c4f51344749) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **Sustah** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sustah) | 
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
@@ -79,7 +80,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Cryptography for Dummies** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographyfordummies) |
 | **Lunizz CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
 | **REloaded** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/reloaded) |
-| **JPGChat** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/jpgchat) |
 | **Linux Backdoors** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxbackdoors) |
 | **Team** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/teamcw) |
 | **Wekor** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wekorra) |
