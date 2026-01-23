@@ -56,6 +56,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **envizon** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/envizon) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-envizon-76735ee541f2) |
 | **Archangel** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/archangel) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-archangel-7299ebe4f12f) |
 | **JPGChat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jpgchat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jpgchat-3c4f51344749) |
+| **Team** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/teamcw) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-team-6cb1ab202bfa) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
@@ -80,7 +81,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Lunizz CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
 | **REloaded** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/reloaded) |
 | **Linux Backdoors** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxbackdoors) |
-| **Team** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/teamcw) |
 | **Wekor** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wekorra) |
 | **DNS Manipulation** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dnsmanipulation) |
 | **broker** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/broker) |
