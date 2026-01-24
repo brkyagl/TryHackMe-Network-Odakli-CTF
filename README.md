@@ -57,6 +57,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Archangel** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/archangel) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-archangel-7299ebe4f12f) |
 | **JPGChat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jpgchat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jpgchat-3c4f51344749) |
 | **Team** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/teamcw) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-team-6cb1ab202bfa) |
+| **GLITCH** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/glitch) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-glitch-d2f9d374b140) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
@@ -97,7 +98,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **SafeZone** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/safezone) |
 | **How Websites Work** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howwebsiteswork) |
 | **Debug** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/debug) |
-| **GLITCH** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/glitch) |
 | **Memory Forensics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/memoryforensics) |
 | **VulnNet: dotpy** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetdotpy) |
 | **AllSignsPoint2Pwnage** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/allsignspoint2pwnage) |
