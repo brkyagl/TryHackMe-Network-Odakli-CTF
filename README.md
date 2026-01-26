@@ -77,7 +77,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **ISO27001** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iso27001) |
 | **Watcher** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/watcher) |
 | **WebOSINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webosint) |
-| **magician** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/magician) |
 | **Cryptography for Dummies** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographyfordummies) |
 | **Lunizz CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
 | **REloaded** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/reloaded) |
@@ -94,7 +93,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Attacking ICS Plant #2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/attackingics2) |
 | **KaffeeSec - SoMeSINT** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/somesint) |
 | **pyLon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pylonzfpyLon) |
-| **VulnNet: Node** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetnode) |
 | **SafeZone** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/safezone) |
 | **How Websites Work** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/howwebsiteswork) |
 | **Debug** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/debug) |
