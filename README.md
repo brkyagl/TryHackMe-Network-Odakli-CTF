@@ -58,6 +58,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **JPGChat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jpgchat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jpgchat-3c4f51344749) |
 | **Team** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/teamcw) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-team-6cb1ab202bfa) |
 | **GLITCH** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/glitch) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-glitch-d2f9d374b140) |
+| **h4cked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/h4cked) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
@@ -85,7 +86,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **DNS Manipulation** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dnsmanipulation) |
 | **broker** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/broker) |
 | **Badbyte** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/badbyte) |
-| **h4cked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/h4cked) |
 | **Tokyo Ghoul** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tokyoghoul666) |
 | **OpenVAS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/openvas) |
 | **VulnNet** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnet1) |
