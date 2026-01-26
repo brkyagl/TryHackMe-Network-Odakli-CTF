@@ -58,7 +58,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **JPGChat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jpgchat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jpgchat-3c4f51344749) |
 | **Team** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/teamcw) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-team-6cb1ab202bfa) |
 | **GLITCH** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/glitch) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-glitch-d2f9d374b140) |
-| **h4cked** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/h4cked) |
+| **h4cked** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/h4cked) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-h4cked-051e9f17669e) |
 | **Overpass 3 - Hosting** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | |
 | **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
