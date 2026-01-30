@@ -60,8 +60,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **GLITCH** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/glitch) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-glitch-d2f9d374b140) |
 | **h4cked** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/h4cked) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-h4cked-051e9f17669e) |
 | **Overpass 3 - Hosting** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-overpass-3-hosting-ed2dcbebb041) |
-| **Badbyte** | Kolay | ⬜ Başlanacak | [Odaya Git]([https://tryhackme.com/room/badbyte] | (https://tryhackme.com/room/badbyte)) |
-| **SQL Injection Lab** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlilab) |
+| **Badbyte** | Kolay | ⬜ Başlanacak | [Odaya Git]([https://tryhackme.com/room/badbyte] |
 | **Linux Agency** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxagency) |
 | **NahamStore** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nahamstore) |
 | **Keldagrim** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/keldagrim) |
