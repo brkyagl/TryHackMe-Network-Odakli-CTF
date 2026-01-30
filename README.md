@@ -61,7 +61,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **h4cked** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/h4cked) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-h4cked-051e9f17669e) |
 | **Overpass 3 - Hosting** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-overpass-3-hosting-ed2dcbebb041) |
 | **Badbyte** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/badbyte) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-badbyte-c5d49e272ea4) |
-| **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog(https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541)] |
+| **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541)] |
 | **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
 | **Baron Samedit (Sudo)** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sudovulnssamedit) |
 | **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
