@@ -97,6 +97,54 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **AllSignsPoint2Pwnage** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/allsignspoint2pwnage) |
 | **LearnSSTI** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/learnssti) |
 | **Cooctus Stories** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cooctusadventures) |
+| **Sweettooth Inc.** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sweettoothinc) |
+| **VulnNet: Active** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetactive) |
+| **CMSpit** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cmspit) |
+| **Mobile Malware Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mma) |
+| **PowerShell for Pentesters** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/powershellforpentesters) |
+| **Python for Pentesters** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pythonforcybersecurity) |
+| **Python Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pythonbasics) |
+| **Super-Spam** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/superspamr) |
+| **Chronicle** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chronicle) |
+| **Walking An Application** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/walkinganapplication) |
+| **GameBuzz** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gamebuzz) |
+| **Crocc Crew** | İnsane | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crocccrew) |
+| **Authentication Bypass** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/authenticationbypass) |
+| **Uranium CTF** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/uranium) |
+| **Intro To Pwntools** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtopwntools) |
+| **Intro to SSRF** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfqi) |
+| **Wordpress: CVE-2021-29447** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wordpresscve202129447) |
+| **Dunkle Materie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dunklematerieptxc9) |
+| **Windows x64 Assembly** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/win64assembly) |
+| **Subdomain Enumeration** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/subdomainenumeration) |
+| **Fortress** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fortress) |
+| **Pentesting Fundamentals** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pentestingfundamentals) |
+| **Hip Flask** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hipflask) |
+| **Empline** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/empline) |
+| **Vulnerabilities 101** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnerabilities101) |
+| **Exploit Vulnerabilities** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/exploitingavulnerabilityv2) |
+| **Vulnerability Capstone** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnerabilitycapstone) |
+| **Metasploit: Exploitation** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/metasploitexploitation) |
+| **Metasploit: Introduction** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/metasploitintro) |
+| **Metasploit: Meterpreter** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/meterpreter) |
+| **PalsForLife** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/palsforlife) |
+| **Atlas** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/atlas) |
+| **Lockdown** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lockdown) |
+| **Content Discovery** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contentdiscovery) |
+| **Command Injection** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/oscommandinjection) |
+| **IDOR** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/idor) |
+| **Intro to XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/xss) |
+| **File Inclusion** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileinc) |
+| **SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlinjectionlm) |
+| **Introduction To Honeypots** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontohoneypots) |
+| **Masterminds** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mastermindsxlq) |
+| **Jason** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/jason) |
+| **Passive Reconnaissance** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/passiverecon) |
+| **Active Reconnaissance** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/activerecon) |
+| **Nmap Live Host Discovery** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nmap01) |
+| **Protocols and Servers 2** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/protocolsandservers2) |
+| **Nmap Post Port Scans** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nmap04) |
+| **Nmap Advanced Port Scans** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nmap03) |
 
 ---
 
