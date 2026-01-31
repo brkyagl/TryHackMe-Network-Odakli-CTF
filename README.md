@@ -62,6 +62,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Overpass 3 - Hosting** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/overpass3hosting) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-overpass-3-hosting-ed2dcbebb041) |
 | **Badbyte** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/badbyte) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-badbyte-c5d49e272ea4) |
 | **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541) |
+| **Jason** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jason) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jax-sucks-alot-7c2d19fdb668) |
 | **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
 | **Baron Samedit (Sudo)** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sudovulnssamedit) |
 | **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
@@ -138,7 +139,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlinjectionlm) |
 | **Introduction To Honeypots** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontohoneypots) |
 | **Masterminds** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mastermindsxlq) |
-| **Jason** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/jason) |
 | **Passive Reconnaissance** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/passiverecon) |
 | **Active Reconnaissance** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/activerecon) |
 | **Nmap Live Host Discovery** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/nmap01) |
