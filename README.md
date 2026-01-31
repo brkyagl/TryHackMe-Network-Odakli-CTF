@@ -63,8 +63,8 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Badbyte** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/badbyte) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-badbyte-c5d49e272ea4) |
 | **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541) |
 | **Jason** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jason) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jax-sucks-alot-7c2d19fdb668) |
+| **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
 | **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
-| **Baron Samedit (Sudo)** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sudovulnssamedit) |
 | **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
 | **Classic Passwd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/classicpasswd) |
 | **Linux Modules** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxmodules) |
@@ -73,11 +73,8 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Investigating Windows 2.0** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/investigatingwindows2) |
 | **Inferno** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inferno) |
 | **The Great Escape** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thegreatescape) |
-| **ISO27001** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/iso27001) |
 | **Watcher** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/watcher) |
-| **WebOSINT** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webosint) |
 | **Cryptography for Dummies** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographyfordummies) |
-| **Lunizz CTF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
 | **REloaded** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/reloaded) |
 | **Linux Backdoors** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxbackdoors) |
 | **Wekor** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/wekorra) |
@@ -101,7 +98,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Sweettooth Inc.** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sweettoothinc) |
 | **VulnNet: Active** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetactive) |
 | **CMSpit** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cmspit) |
-| **Mobile Malware Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mma) |
 | **PowerShell for Pentesters** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/powershellforpentesters) |
 | **Python for Pentesters** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pythonforcybersecurity) |
 | **Python Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pythonbasics) |
@@ -109,7 +105,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Chronicle** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chronicle) |
 | **Walking An Application** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/walkinganapplication) |
 | **GameBuzz** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gamebuzz) |
-| **Crocc Crew** | İnsane | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crocccrew) |
+| **Crocc Crew** | Insane | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/crocccrew) |
 | **Authentication Bypass** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/authenticationbypass) |
 | **Uranium CTF** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/uranium) |
 | **Intro To Pwntools** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtopwntools) |
@@ -133,7 +129,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Lockdown** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lockdown) |
 | **Content Discovery** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contentdiscovery) |
 | **Command Injection** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/oscommandinjection) |
-| **IDOR** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/idor) |
 | **Intro to XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/xss) |
 | **File Inclusion** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileinc) |
 | **SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sqlinjectionlm) |
