@@ -63,7 +63,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Badbyte** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/badbyte) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-badbyte-c5d49e272ea4) |
 | **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541) |
 | **Jason** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jason) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jax-sucks-alot-7c2d19fdb668) |
-| **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) |
+| **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lunizz-ctf-7b5a6fad0120) |
 | **Cyber Scotland 2021** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberweek2021) |
 | **Bash Scripting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/bashscripting) |
 | **Classic Passwd** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/classicpasswd) |
