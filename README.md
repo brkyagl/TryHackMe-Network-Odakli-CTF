@@ -65,6 +65,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Jason** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jason) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jax-sucks-alot-7c2d19fdb668) |
 | **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lunizz-ctf-7b5a6fad0120) |
 | **Agent T** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/agentt) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-agent-t-e46e21cdb259) |
+| **Corridor** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/corridor) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-corridor-83a5932aee11) |
 | **CVE-2022-26923** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cve202226923) | - |
 | **Introduction to DevSecOps** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontodevsecops) | - |
 | **Frank and Herby try again** | Orta | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/frankandherbytryagain) | - |
@@ -87,7 +88,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **VulnNet: Endgame** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetendgame) | - |
 | **Cyber Kill Chain** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberkillchainzmt) | - |
 | **Unified Kill Chain** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unifiedkillchain) | - |
-| **Corridor** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/corridor) | - |
 | **Intro to Cyber Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberthreatintel) | - |
 | **DFIR: An Introduction** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductoryroomdfirmodule) | - |
 | **Intro to Endpoint Security** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoendpointsecurity) | - |
