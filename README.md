@@ -64,6 +64,44 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Madeye's Castle** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/madeyescastle) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-madeyes-castle-2aa69f184541) |
 | **Jason** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/jason) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-jax-sucks-alot-7c2d19fdb668) |
 | **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lunizz-ctf-7b5a6fad0120) |
+| **CVE-2022-26923** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cve202226923) | - |
+| **Introduction to DevSecOps** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontodevsecops) | - |
+| **Frank and Herby try again** | Orta | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/frankandherbytryagain) | - |
+| **Breaching Active Directory** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/breachingad) | - |
+| **Enumerating Active Directory** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adenumeration) | - |
+| **Sea Surfer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/seasurfer) | - |
+| **Island Orchestration** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/islandorchestration) | - |
+| **Lateral Movement and Pivoting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lateralmovementandpivoting) | - |
+| **Annie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/annie) | - |
+| **Atlassian CVE-2022-26134** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cve202226134) | - |
+| **Follina MSDT** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/follinamsdt) | - |
+| **SSDLC** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/securesdlc) | - |
+| **Olympus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/olympusroom) | - |
+| **Introduction to Antivirus** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoav) | - |
+| **Threat Intelligence Tools** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threatinteltools) | - |
+| **Agent T** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/agentt) | - |
+| **Hacker vs. Hacker** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackervshacker) | - |
+| **Active Directory Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/winadbasics) | - |
+| **Bedrock** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/b3dr0ckb3dr0ck) | - |
+| **Introduction to Windows API** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowsapi) | - |
+| **VulnNet: Endgame** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetendgame) | - |
+| **Cyber Kill Chain** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberkillchainzmt) | - |
+| **Unified Kill Chain** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/unifiedkillchain) | - |
+| **Corridor** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/corridor) | - |
+| **Intro to Cyber Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberthreatintel) | - |
+| **DFIR: An Introduction** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductoryroomdfirmodule) | - |
+| **Intro to Endpoint Security** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoendpointsecurity) | - |
+| **Introduction to SIEM** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtosiem) | - |
+| **Traffic Analysis Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/trafficanalysisessentials) | - |
+| **Security Principles** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/securityprinciples) | - |
+| **Dissecting PE Headers** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dissectingpeheaders) | - |
+| **Intro to Containerisation** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtocontainerisation) | - |
+| **Advent of Cyber 2022** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber4) | - |
+| **TakeOver** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/takeover) | - |
+| **Intro to Pipeline Auto.** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtopipelineautomation) | - |
+| **Eavesdropper** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eavesdropper) | - |
+| **Introduction to Cryptography** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographyintro) | - |
+| **MD2PDF** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/md2pdf) | - |
 
 ---
 
@@ -80,6 +118,3 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 * ✍️ **Medium Blog:** [Tüm Çözüm Yazılarıma Ulaşın](https://medium.com/@brkyagl)
 * 👨‍💻 **TryHackMe Profilim:** [İlerleme Durumumu Takip Et](https://tryhackme.com/p/brkyagl)
 * ☕ **TryHackMe Premium İçin Destek ♥️:** [Buy Me A Coffee](https://buymeacoffee.com/brkyagl)
-
----
-
