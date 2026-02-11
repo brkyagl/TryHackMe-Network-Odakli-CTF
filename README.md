@@ -66,6 +66,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Lunizz CTF** | Orta | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/lunizzctfnd) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-lunizz-ctf-7b5a6fad0120) |
 | **Agent T** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/agentt) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-agent-t-e46e21cdb259) |
 | **Corridor** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/corridor) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-corridor-83a5932aee11) |
+| **Bedrock** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/b3dr0ckb3dr0ck) | - |
 | **CVE-2022-26923** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cve202226923) | - |
 | **Introduction to DevSecOps** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontodevsecops) | - |
 | **Frank and Herby try again** | Orta | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/frankandherbytryagain) | - |
@@ -83,7 +84,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Threat Intelligence Tools** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threatinteltools) | - |
 | **Hacker vs. Hacker** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hackervshacker) | - |
 | **Active Directory Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/winadbasics) | - |
-| **Bedrock** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/b3dr0ckb3dr0ck) | - |
 | **Introduction to Windows API** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowsapi) | - |
 | **VulnNet: Endgame** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/vulnnetendgame) | - |
 | **Cyber Kill Chain** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberkillchainzmt) | - |
