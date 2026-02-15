@@ -75,7 +75,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Enumerating Active Directory** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adenumeration) | - |
 | **Sea Surfer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/seasurfer) | - |
 | **Island Orchestration** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/islandorchestration) | - |
-| **Lateral Movement and Pivoting** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/lateralmovementandpivoting) | - |
 | **Annie** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/annie) | - |
 | **Atlassian CVE-2022-26134** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cve202226134) | - |
 | **Follina MSDT** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/follinamsdt) | - |
