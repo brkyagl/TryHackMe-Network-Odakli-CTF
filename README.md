@@ -93,6 +93,26 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Breaking RSA** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/breakrsa) | - |
 | **Moniker Link** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/monikerlink) | - |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
+| **HTTP/2 Request Smuggling** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/http2requestsmuggling) | - |
+| **DFIR Process Legal Considerations** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dfirprocesslegalconsiderations) | - |
+| **Hack Smarter Security** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hacksmartersecurity) | - |
+| **Linux File System Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxfilesystemanalysis) | - |
+| **Clocky** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/clocky) | - |
+| **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
+| **Creative** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/creative) | - |
+| **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
+| **TryHack3M: Bricks Heist** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | - |
+| **XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/axss) | - |
+| **CSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/csrfV2) | - |
+| **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
+| **Insecure Deserialisation** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/insecuredeserialisation) | - |
+| **Profiles** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/profilesroom) | - |
+| **IR Philosophy and Ethics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/irphilosophyethics) | - |
+| **CyberLens** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | - |
+| **Linux Process Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxprocessanalysis) | - |
+| **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
+| **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
+| **mKingdom** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/mkingdomm) | - |
 
 ---
 
