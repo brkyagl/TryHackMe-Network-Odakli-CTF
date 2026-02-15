@@ -68,8 +68,8 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Corridor** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/corridor) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-corridor-83a5932aee11) |
 | **TakeOver** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/takeover) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-takeover-302689e47695) |
 | **MD2PDF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/md2pdf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-md2pdf-a291fb1d0623) |
+| **Compiled** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/compiled) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-compiled-9a4c08045826) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
-| **Compiled** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/compiled) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
 | **Confluence CVE-2023-22515** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/confluence202322515) | - |
