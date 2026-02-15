@@ -69,6 +69,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **TakeOver** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/takeover) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-takeover-302689e47695) |
 | **MD2PDF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/md2pdf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-md2pdf-a291fb1d0623) |
 | **Compiled** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/compiled) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-compiled-9a4c08045826) |
+| **Phishing Pond** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/phishingpond) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-phishing-pond-9e13e802a55c) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -151,7 +152,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Network Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networksecurityessentials) | - |
 | **Network Discovery Detection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkdiscoverydetection) | - |
 | **Network Traffic Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networktrafficbasics) | - |
-| **Phishing Pond** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/phishingpond) | - |
 | **Initial Access Pot** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/initialaccesspot) | - |
 | **Elevating Movement** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/elevatingmovement) | - |
 | **Input Manipulation & Prompt Injection** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inputmanipulationpromptinjection) | - |
