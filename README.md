@@ -131,6 +131,31 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Startup** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/startup) | - |
 | **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
 | **Advent of Cyber '24 Side Quest** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber24sidequest) | - |
+| **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
+| **Soupedecode 01** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/soupedecode01) | - |
+| **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
+| **Contrabando** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contrabando) | - |
+| **File and Hash Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileandhashthreatintel) | - |
+| **Hack2Win** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hack2win) | - |
+| **Web Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/websecurityessentials) | - |
+| **Introduction to EDR** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontoedrs) | - |
+| **Session Forensics** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sessionforensics) | - |
+| **Malware Classification** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/malwareclassification) | - |
+| **SOC Role in Blue Team** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/socroleinblueteam) | - |
+| **Detecting Web Attacks** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/detectingwebattacks) | - |
+| **AppSec IR** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/appsecir) | - |
+| **Chaining Vulnerabilities** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/chainingvulnerabilities) | - |
+| **Linux Logging for SOC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxloggingforsoc) | - |
+| **Detecting Web DDoS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/detectingwebddos) | - |
+| **Linux Threat Detection 1** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxthreatdetection1) | - |
+| **Network Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networksecurityessentials) | - |
+| **Network Discovery Detection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkdiscoverydetection) | - |
+| **Network Traffic Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networktrafficbasics) | - |
+| **Phishing Pond** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/phishingpond) | - |
+| **Initial Access Pot** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/initialaccesspot) | - |
+| **Elevating Movement** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/elevatingmovement) | - |
+| **Input Manipulation & Prompt Injection** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inputmanipulationpromptinjection) | - |
+| **OWASP Top 10 2025 (I-II-III)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owasptopten2025one) | - |
 
 ---
 
