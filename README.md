@@ -91,7 +91,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Kitty** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kitty) | - |
 | **Intro to IaC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoiac) | - |
 | **Breaking RSA** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/breakrsa) | - |
-| **Moniker Link** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/monikerlink) | - |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
 | **HTTP/2 Request Smuggling** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/http2requestsmuggling) | - |
 | **DFIR Process Legal Considerations** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dfirprocesslegalconsiderations) | - |
@@ -112,7 +111,26 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Linux Process Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxprocessanalysis) | - |
 | **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
 | **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
-| **mKingdom** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/mkingdomm) | - |
+| **Pyrat** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pyrat) | - |
+| **Backtrack** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/backtrack) | - |
+| **Extracted** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/extractedroom) | - |
+| **Mountaineer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mountaineerlinux) | - |
+| **Networking Secure Protocols** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkingsecureprotocols) | - |
+| **Networking Concepts** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkingconcepts) | - |
+| **Search Skills** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchskills) | - |
+| **Windows Command Line** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowscommandline) | - |
+| **Cryptography Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographybasics) | - |
+| **SOC Fundamentals** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/socfundamentals) | - |
+| **TryWinMe** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/trywinme) | - |
+| **Web Application Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webapplicationbasics) | - |
+| **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
+| **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
+| **Whiterose** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/whiterose) | - |
+| **Advent of Cyber 2024** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber2024) | - |
+| **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
+| **Startup** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/startup) | - |
+| **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
+| **Advent of Cyber '24 Side Quest** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber24sidequest) | - |
 
 ---
 
