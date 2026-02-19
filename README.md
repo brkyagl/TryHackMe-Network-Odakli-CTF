@@ -70,6 +70,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **MD2PDF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/md2pdf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-md2pdf-a291fb1d0623) |
 | **Compiled** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/compiled) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-compiled-9a4c08045826) |
 | **Phishing Pond** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/phishingpond) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-phishing-pond-9e13e802a55c) |
+| **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | - |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -79,7 +80,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Dreaming** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dreaming) | - |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
 | **AoC '23 Side Quest** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber23sidequest) | - |
-| **Advent of Cyber 2023** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber2023) | - |
 | **Snowy ARMageddon** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/armageddon2) | - |
 | **The Bandit Surfer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | - |
 | **Frosteau Busy with Vim** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | - |
@@ -108,7 +108,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Insecure Deserialisation** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/insecuredeserialisation) | - |
 | **Profiles** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/profilesroom) | - |
 | **IR Philosophy and Ethics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/irphilosophyethics) | - |
-| **CyberLens** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | - |
 | **Linux Process Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxprocessanalysis) | - |
 | **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
 | **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
@@ -127,11 +126,8 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
 | **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
 | **Whiterose** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/whiterose) | - |
-| **Advent of Cyber 2024** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber2024) | - |
 | **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
-| **Startup** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/startup) | - |
 | **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
-| **Advent of Cyber '24 Side Quest** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber24sidequest) | - |
 | **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
 | **Soupedecode 01** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/soupedecode01) | - |
 | **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
