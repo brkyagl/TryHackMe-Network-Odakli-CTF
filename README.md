@@ -70,7 +70,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **MD2PDF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/md2pdf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-md2pdf-a291fb1d0623) |
 | **Compiled** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/compiled) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-compiled-9a4c08045826) |
 | **Phishing Pond** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/phishingpond) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-phishing-pond-9e13e802a55c) |
-| **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | - |
+| **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyberlens-8d63076b6c37) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
