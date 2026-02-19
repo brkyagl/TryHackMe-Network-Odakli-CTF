@@ -119,7 +119,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Networking Concepts** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkingconcepts) | - |
 | **Search Skills** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchskills) | - |
 | **Windows Command Line** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowscommandline) | - |
-| **Cryptography Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cryptographybasics) | - |
 | **SOC Fundamentals** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/socfundamentals) | - |
 | **TryWinMe** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/trywinme) | - |
 | **Web Application Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webapplicationbasics) | - |
