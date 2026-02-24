@@ -71,6 +71,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Compiled** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/compiled) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-compiled-9a4c08045826) |
 | **Phishing Pond** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/phishingpond) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-phishing-pond-9e13e802a55c) |
 | **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyberlens-8d63076b6c37) |
+| **Pyrat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/pyrat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pyrat-31307b2f9551) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -111,7 +112,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Linux Process Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxprocessanalysis) | - |
 | **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
 | **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
-| **Pyrat** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/pyrat) | - |
 | **Backtrack** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/backtrack) | - |
 | **Extracted** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/extractedroom) | - |
 | **Mountaineer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mountaineerlinux) | - |
