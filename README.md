@@ -72,6 +72,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Phishing Pond** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/phishingpond) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-phishing-pond-9e13e802a55c) |
 | **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyberlens-8d63076b6c37) |
 | **Pyrat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/pyrat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pyrat-31307b2f9551) |
+| **Whiterose** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whiterose) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whiterose-8cda3396a58d) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -124,7 +125,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Web Application Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webapplicationbasics) | - |
 | **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
 | **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
-| **Whiterose** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/whiterose) | - |
 | **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
 | **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
 | **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
