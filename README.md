@@ -73,6 +73,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **CyberLens** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cyberlensp6) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-cyberlens-8d63076b6c37) |
 | **Pyrat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/pyrat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pyrat-31307b2f9551) |
 | **Whiterose** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whiterose) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whiterose-8cda3396a58d) |
+| **Creative** | Kolay | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/creative) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-creative-9d6147209a51) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -101,7 +102,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Linux File System Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxfilesystemanalysis) | - |
 | **Clocky** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/clocky) | - |
 | **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
-| **Creative** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/creative) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
 | **TryHack3M: Bricks Heist** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | - |
 | **XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/axss) | - |
