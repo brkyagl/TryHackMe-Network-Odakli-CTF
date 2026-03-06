@@ -74,6 +74,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Pyrat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/pyrat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pyrat-31307b2f9551) |
 | **Whiterose** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whiterose) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whiterose-8cda3396a58d) |
 | **Creative** | Kolay | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/creative) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-creative-9d6147209a51) |
+| **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | - |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
@@ -128,7 +129,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
 | **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
 | **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
-| **Soupedecode 01** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/soupedecode01) | - |
 | **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
 | **Contrabando** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contrabando) | - |
 | **File and Hash Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileandhashthreatintel) | - |
