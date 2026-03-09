@@ -74,8 +74,8 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Pyrat** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/pyrat) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-pyrat-31307b2f9551) |
 | **Whiterose** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whiterose) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whiterose-8cda3396a58d) |
 | **Creative** | Kolay | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/creative) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-creative-9d6147209a51) |
-| **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | - |
-| **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | - |
+| **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-soupedecode-01-14a6ab4ec341) |
+| **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-hijack-55003ff67c75) |
 | **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
 | **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
 | **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
