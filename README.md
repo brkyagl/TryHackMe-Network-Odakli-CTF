@@ -76,7 +76,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Creative** | Kolay | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/creative) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-creative-9d6147209a51) |
 | **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-soupedecode-01-14a6ab4ec341) |
 | **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-hijack-55003ff67c75) |
-| **Dreaming** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dreaming) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dreaming-01a3306ac5cb) |
+| **Dreaming** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/dreaming) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dreaming-01a3306ac5cb) |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
 | **AoC '23 Side Quest** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber23sidequest) | - |
 | **Snowy ARMageddon** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/armageddon2) | - |
