@@ -76,10 +76,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Creative** | Kolay | ✅ Tamamlandı  | [Odaya Git](https://tryhackme.com/room/creative) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-creative-9d6147209a51) |
 | **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-soupedecode-01-14a6ab4ec341) |
 | **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-hijack-55003ff67c75) |
-| **Log Operations** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/logoperations) | - |
-| **Looney Tunables** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/looneytunes) | - |
-| **Registry Persistence** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/registrypersistencedetection) | - |
-| **Confluence CVE-2023-22515** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/confluence202322515) | - |
 | **Servidae** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/servidae) | - |
 | **Dreaming** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dreaming) | - |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
