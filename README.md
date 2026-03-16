@@ -77,6 +77,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Soupedecode 01** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/soupedecode01) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-soupedecode-01-14a6ab4ec341) |
 | **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-hijack-55003ff67c75) |
 | **Dreaming** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/dreaming) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dreaming-01a3306ac5cb) |
+| **TryHack3M: Bricks Heist** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-tryhack3m-bricks-heist-bf2c31c6aaa4) |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
 | **AoC '23 Side Quest** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber23sidequest) | - |
 | **Snowy ARMageddon** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/armageddon2) | - |
@@ -99,7 +100,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Clocky** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/clocky) | - |
 | **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
-| **TryHack3M: Bricks Heist** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | - |
 | **XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/axss) | - |
 | **CSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/csrfV2) | - |
 | **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
