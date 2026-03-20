@@ -78,13 +78,13 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Hijack** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/hijack) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-hijack-55003ff67c75) |
 | **Dreaming** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/dreaming) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dreaming-01a3306ac5cb) |
 | **TryHack3M: Bricks Heist** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-tryhack3m-bricks-heist-bf2c31c6aaa4) |
+| **WhyHackMe** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whyhackme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whyhackme-299ea4f94220) |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
 | **AoC '23 Side Quest** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber23sidequest) | - |
 | **Snowy ARMageddon** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/armageddon2) | - |
 | **The Bandit Surfer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | - |
 | **Frosteau Busy with Vim** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | - |
 | **Return of the Yeti** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/surfingyetiiscomingtotown) | - |
-| **WhyHackMe** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/whyhackme) | - |
 | **SSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfhr) | - |
 | **GitLab CVE-2023-7028** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gitlabcve20237028) | - |
 | **Umbrella** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/umbrella) | - |
