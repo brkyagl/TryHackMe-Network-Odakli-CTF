@@ -79,6 +79,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Dreaming** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/dreaming) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-dreaming-01a3306ac5cb) |
 | **TryHack3M: Bricks Heist** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-tryhack3m-bricks-heist-bf2c31c6aaa4) |
 | **WhyHackMe** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whyhackme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whyhackme-299ea4f94220) |
+| **The Sticker Shop** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/thestickershop) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-sticker-shop-56e04557bb05) |
 | **Cactus** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/cactus) | - |
 | **AoC '23 Side Quest** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/adventofcyber23sidequest) | - |
 | **Snowy ARMageddon** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/armageddon2) | - |
@@ -122,7 +123,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
 | **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
 | **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
-| **The Sticker Shop** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/thestickershop) | - |
 | **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
 | **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
 | **Contrabando** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contrabando) | - |
