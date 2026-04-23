@@ -80,7 +80,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **TryHack3M: Bricks Heist** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/tryhack3mbricksheist) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-tryhack3m-bricks-heist-bf2c31c6aaa4) |
 | **WhyHackMe** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whyhackme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whyhackme-299ea4f94220) |
 | **The Sticker Shop** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/thestickershop) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-sticker-shop-56e04557bb05) |
-| **The Bandit Surfer** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-bandit-surfer-89ba75474b97) |
+| **The Return of the Yeti** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-bandit-surfer-89ba75474b97) |
 | **Frosteau Busy with Vim** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | - |
 | **Return of the Yeti** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/surfingyetiiscomingtotown) | - |
 | **SSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfhr) | - |
