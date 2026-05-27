@@ -81,11 +81,11 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **WhyHackMe** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/whyhackme) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-whyhackme-299ea4f94220) |
 | **The Sticker Shop** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/thestickershop) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-sticker-shop-56e04557bb05) |
 | **The Return of the Yeti** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-bandit-surfer-89ba75474b97) |
+| **Umbrella** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/umbrella) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-umbrella-db5cbbcace17) |
 | **Frosteau Busy with Vim** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | - |
 | **Return of the Yeti** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/surfingyetiiscomingtotown) | - |
 | **SSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfhr) | - |
 | **GitLab CVE-2023-7028** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gitlabcve20237028) | - |
-| **Umbrella** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/umbrella) | - |
 | **HTTP Request Smuggling** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/httprequestsmuggling) | - |
 | **Kitty** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kitty) | - |
 | **Intro to IaC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoiac) | - |
@@ -124,7 +124,6 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
 | **Contrabando** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contrabando) | - |
 | **File and Hash Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileandhashthreatintel) | - |
-| **Hack2Win** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hack2win) | - |
 | **Web Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/websecurityessentials) | - |
 | **Introduction to EDR** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontoedrs) | - |
 | **Session Forensics** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sessionforensics) | - |
