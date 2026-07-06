@@ -82,7 +82,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **The Sticker Shop** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/thestickershop) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-sticker-shop-56e04557bb05) |
 | **The Return of the Yeti** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-bandit-surfer-89ba75474b97) |
 | **Umbrella** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/umbrella) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-umbrella-db5cbbcace17) |
-| **Frosteau Busy with Vim** | Çok Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | - |
+| **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
 | **Return of the Yeti** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/surfingyetiiscomingtotown) | - |
 | **SSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfhr) | - |
 | **GitLab CVE-2023-7028** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gitlabcve20237028) | - |
