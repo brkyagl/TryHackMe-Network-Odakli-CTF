@@ -83,11 +83,11 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **The Return of the Yeti** | Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-the-bandit-surfer-89ba75474b97) |
 | **Umbrella** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/umbrella) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-umbrella-db5cbbcace17) |
 | **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
+| **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
 | **Return of the Yeti** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/surfingyetiiscomingtotown) | - |
 | **SSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/ssrfhr) | - |
 | **GitLab CVE-2023-7028** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/gitlabcve20237028) | - |
 | **HTTP Request Smuggling** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/httprequestsmuggling) | - |
-| **Kitty** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/kitty) | - |
 | **Intro to IaC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoiac) | - |
 | **Breaking RSA** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/breakrsa) | - |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
