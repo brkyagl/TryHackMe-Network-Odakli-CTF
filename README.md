@@ -84,9 +84,9 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Umbrella** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/umbrella) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-umbrella-db5cbbcace17) |
 | **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
+| **Clocky** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/clocky) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-clocky-3d51b3cb3248) |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
 | **Hack Smarter Security** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hacksmartersecurity) | - |
-| **Clocky** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/clocky) | - |
 | **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
 | **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
