@@ -84,35 +84,20 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Umbrella** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/umbrella) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-umbrella-db5cbbcace17) |
 | **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
-| **HTTP Request Smuggling** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/httprequestsmuggling) | - |
-| **Intro to IaC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introtoiac) | - |
-| **Breaking RSA** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/breakrsa) | - |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
-| **HTTP/2 Request Smuggling** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/http2requestsmuggling) | - |
-| **DFIR Process Legal Considerations** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/dfirprocesslegalconsiderations) | - |
 | **Hack Smarter Security** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hacksmartersecurity) | - |
-| **Linux File System Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxfilesystemanalysis) | - |
 | **Clocky** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/clocky) | - |
 | **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
-| **XSS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/axss) | - |
-| **CSRF** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/csrfV2) | - |
 | **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
 | **Insecure Deserialisation** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/insecuredeserialisation) | - |
 | **Profiles** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/profilesroom) | - |
-| **IR Philosophy and Ethics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/irphilosophyethics) | - |
-| **Linux Process Analysis** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxprocessanalysis) | - |
 | **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
 | **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
 | **Backtrack** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/backtrack) | - |
 | **Extracted** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/extractedroom) | - |
 | **Mountaineer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mountaineerlinux) | - |
-| **Networking Secure Protocols** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkingsecureprotocols) | - |
-| **Networking Concepts** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkingconcepts) | - |
 | **Search Skills** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchskills) | - |
-| **Windows Command Line** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/windowscommandline) | - |
-| **SOC Fundamentals** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/socfundamentals) | - |
-| **TryWinMe** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/trywinme) | - |
 | **Web Application Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webapplicationbasics) | - |
 | **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
 | **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
