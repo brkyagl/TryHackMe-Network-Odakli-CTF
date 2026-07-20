@@ -85,6 +85,21 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
 | **Clocky** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/clocky) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-clocky-3d51b3cb3248) |
+| **Kenobi** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/kenobi) | - |
+| **Ice** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/ice) | - |
+| **Bounty Hacker** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/cowboyhacker) | - |
+| **Wgel CTF** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/wgelctf) | - |
+| **Overpass 2 - Hacked** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/overpass2hacked) | - |
+| **Anonymous** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/anonymous) | - |
+| **VulnNet: Node** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/vulnnetnode) | - |
+| **VulnNet: Internal** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/vulnnetinternal) | - |
+| **VulnNet: Roasted** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/vulnnetroasted) | - |
+| **Relevant** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/relevant) | - |
+| **Jacob the Boss** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/jacobtheboss) | - |
+| **Inferno** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/inferno) | - |
+| **broker** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/broker) | - |
+| **Develpy** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/bsidesgtdevelpy) | - |
+| **StuxCTF** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/stuxctf) | - |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
 | **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
