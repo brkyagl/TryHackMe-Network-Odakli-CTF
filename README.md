@@ -86,44 +86,19 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
 | **Clocky** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/clocky) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-clocky-3d51b3cb3248) |
 | **Chrome** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/chrome) | - |
-| **Hack Smarter Security** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/hacksmartersecurity) | - |
-| **Expediting Registry Analysis** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/expregistryforensics) | - |
 | **TryHack3M: Sch3Ma D3Mon** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sch3mad3mon) | - |
 | **Capture Returns** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/capturereturns) | - |
-| **Insecure Deserialisation** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/insecuredeserialisation) | - |
 | **Profiles** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/profilesroom) | - |
 | **Airplane** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/airplane) | - |
 | **Advanced SQL Injection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/advancedsqlinjection) | - |
 | **Backtrack** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/backtrack) | - |
 | **Extracted** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/extractedroom) | - |
 | **Mountaineer** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/mountaineerlinux) | - |
-| **Search Skills** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/searchskills) | - |
-| **Web Application Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/webapplicationbasics) | - |
-| **Training Impact on Teams** | Bilgi | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/training) | - |
 | **Rabbit Hole** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/rabbitholeqq) | - |
-| **Threat Hunting With YARA** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/threathuntingwithyara) | - |
 | **Directory** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/directorydfirroom) | - |
 | **Event Horizon** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/eventhorizonroom) | - |
 | **Contrabando** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/contrabando) | - |
-| **File and Hash Threat Intel** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/fileandhashthreatintel) | - |
-| **Web Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/websecurityessentials) | - |
-| **Introduction to EDR** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/introductiontoedrs) | - |
-| **Session Forensics** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/sessionforensics) | - |
-| **Malware Classification** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/malwareclassification) | - |
-| **SOC Role in Blue Team** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/socroleinblueteam) | - |
-| **Detecting Web Attacks** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/detectingwebattacks) | - |
-| **AppSec IR** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/appsecir) | - |
-| **Chaining Vulnerabilities** | Kolay | ⬜ Başlanacak | [Odaya Git](https://www.google.com/search?q=https://tryhackme.com/room/chainingvulnerabilities) | - |
-| **Linux Logging for SOC** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxloggingforsoc) | - |
-| **Detecting Web DDoS** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/detectingwebddos) | - |
-| **Linux Threat Detection 1** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/linuxthreatdetection1) | - |
-| **Network Security Essentials** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networksecurityessentials) | - |
-| **Network Discovery Detection** | Orta | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networkdiscoverydetection) | - |
-| **Network Traffic Basics** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/networktrafficbasics) | - |
-| **Initial Access Pot** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/initialaccesspot) | - |
 | **Elevating Movement** | Zor | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/elevatingmovement) | - |
-| **Input Manipulation & Prompt Injection** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/inputmanipulationpromptinjection) | - |
-| **OWASP Top 10 2025 (I-II-III)** | Kolay | ⬜ Başlanacak | [Odaya Git](https://tryhackme.com/room/owasptopten2025one) | - |
 
 ---
 
