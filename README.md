@@ -85,9 +85,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Frosteau Busy with Vim** | Çok Zor | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/busyvimfrosteau) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-frosteau-busy-with-vim-f910e89f92e0) |
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
 | **Clocky** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/clocky) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-clocky-3d51b3cb3248) |
-| **Kenobi** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/kenobi) | - |
-| **Ice** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/ice) | - |
-| **Bounty Hacker** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/cowboyhacker) | - |
+| **Bounty Hacker** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cowboyhacker) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-bounty-hacker-a68c1ac63ce0) |
 | **Wgel CTF** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/wgelctf) | - |
 | **Overpass 2 - Hacked** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/overpass2hacked) | - |
 | **Anonymous** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/anonymous) | - |
