@@ -86,7 +86,7 @@ Aşağıdaki listede üzerinde çalıştığım odaların durumunu, zorluğunu v
 | **Kitty** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/kitty) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-kitty-2911e5b56aec) |
 | **Clocky** | Orta | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/clocky) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-clocky-3d51b3cb3248) |
 | **Bounty Hacker** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/cowboyhacker) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-bounty-hacker-a68c1ac63ce0) |
-| **Wgel CTF** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/wgelctf) | - |
+| **Wgel CTF** | Kolay | ✅ Tamamlandı | [Odaya Git](https://tryhackme.com/room/wgelctf) | [Medium Blog](https://medium.com/@brkyagl/tryhackme-writeup-wgel-ctf-5cb76968b3a4) |
 | **Overpass 2 - Hacked** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/overpass2hacked) | - |
 | **Anonymous** | Orta | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/anonymous) | - |
 | **VulnNet: Node** | Kolay | ⬜ Çözülmedi | [Odaya Git](https://tryhackme.com/room/vulnnetnode) | - |
